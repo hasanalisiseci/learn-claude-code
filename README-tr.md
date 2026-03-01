@@ -1,5 +1,7 @@
 # Claude Code'u Öğren
 
+[English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md) | [Türkçe](./README-tr.md)
+
 **Nano bir Claude Code benzeri ajan — sıfırdan başlayarak adım adım inşa ediyoruz.**
 
 > "Model, ajanın kendisidir. Bizim işimiz ona araçlar vermek ve aradan çekilmek."
